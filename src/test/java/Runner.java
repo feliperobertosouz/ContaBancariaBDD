@@ -5,6 +5,7 @@ import io.cucumber.junit.CucumberOptions;
 @RunWith(Cucumber.class)
 @CucumberOptions(
         features = "src/test",
-        glue = {"org.example"})
+        glue = {"org.example"},
+        plugin = {"pretty"})
 public class Runner {
 }
