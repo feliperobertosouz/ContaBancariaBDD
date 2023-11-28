@@ -31,12 +31,16 @@ Conta.java
 
 ## parte 3 Cliente especial
  Rodar o teste agora com o codigo implementado no Conta.java
- ![img3.png](img3.png)
+ ![img3.png](imgs/img3.png)
 
 ## parte 4 Cliente comum
  Implementar os metodos sugeridos na conta Conta.java para o cliente comum
-![img4.png](img4.png)
+![img4.png](imgs/img4.png)
 
 ## parte 5 Cliente comum
     Rodar o teste agora com o codigo implementado no Conta.java
-![img5.png](img5.png)
+![img5.png](imgs/img5.png)
+
+## parte 6 Colocando prints nos metodos
+assim fica mais facil saber se tudo esta funcionando
+![img.png](imgs/img6.png)
