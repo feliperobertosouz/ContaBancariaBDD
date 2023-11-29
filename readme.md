@@ -44,3 +44,7 @@ Conta.java
 ## parte 6 Colocando prints nos metodos
 assim fica mais facil saber se tudo esta funcionando
 ![img.png](imgs/img6.png)
+
+## parte 7 Rodando a classe Runner
+A classe runner serve para o Junit rodar o cucumber
+![img.png](imgs/img7.png)
